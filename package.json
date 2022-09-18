@@ -4,11 +4,21 @@
   "description": "kind of social networking sites for fellow geeks",
   "main": "index.js",
   "scripts": {
+    "start":"nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zee",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeeshan-tech11/codebook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zeeshan-tech11/codebook/issues"
+  },
+  "homepage": "https://github.com/Zeeshan-tech11/codebook#readme"
 }
